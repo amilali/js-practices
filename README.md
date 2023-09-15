@@ -1,3 +1,3 @@
-# js-practices
+# JavaScript Practices
 
-[Shallow Copy & Deep Copy](https://github.com/amilali/js-practices/blob/main/shallow%26Deep.js)
+-[Shallow Copy & Deep Copy](https://github.com/amilali/js-practices/blob/main/shallow%26Deep.js)
